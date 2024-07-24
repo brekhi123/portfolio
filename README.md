@@ -21,5 +21,4 @@ This repository contains the code for my personal portfolio website. It showcase
 2. Navigate to the project directory: `cd portfolio`
 3. Open `index.html` in your browser.
 
-## Project Structure
 
